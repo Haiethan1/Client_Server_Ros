@@ -1,0 +1,5 @@
+<launch>
+    <!-- My Package launch file -->
+    <node pkg="exercise5_13" type="squareArdrone.py" name="test_as"  output="screen">
+    </node>
+</launch>
